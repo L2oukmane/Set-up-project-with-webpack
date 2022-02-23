@@ -2,7 +2,7 @@ Set-up-project-with-webpack | MODULE-II
 
 > This is Set up project with webpack built in our second module of our curriculum at microverse.
 
-Our goal here is to Build a book application with add and remove feature from scratch using JavaScripts. click [here](https://github.com/L2oukmane/Set-up-project-with-webpack) to see deployed live version
+Our goal here is to Build a book application with add and remove feature from scratch using JavaScripts. 
 
 ### Features implemented so far are:
 
